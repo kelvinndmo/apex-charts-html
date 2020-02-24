@@ -1,3 +1,3 @@
 # apex-charts-html
 
-implementing apex charts in vanilla html
+implementing apex charts in  html
